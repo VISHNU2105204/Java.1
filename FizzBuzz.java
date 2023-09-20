@@ -2,8 +2,6 @@
 multiples of ‘3’ print “Fizz” instead of the number and for the multiples of ‘5’ print
 “Buzz”.*/
 
-package FizzBuzz;
-
 public class Practical2 {
 
 	public static void main(String[] args) {
